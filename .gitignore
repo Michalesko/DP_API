@@ -1,0 +1,11 @@
+*.pyc
+moje_testy.py
+tests/
+sftp-config.json
+TODO
+.idea/
+.idea/*
+.idea*
+*.log
+migrations/
+venv/
